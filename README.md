@@ -112,15 +112,15 @@ Dr. A.P.J. Abdul Kalam Technical University, Lucknow, India
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R0ckyC0der&show_icons=true&theme=radical" alt="Yash's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YashSrivastava123&show_icons=true&theme=radical" alt="Yash's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=R0ckyC0der&theme=radical&hide_border=true" alt="Yash's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=YashSrivastava123&theme=radical&hide_border=true" alt="Yash's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=R0ckyC0der&theme=rogue" alt="Yash's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YashSrivastava123&theme=rogue" alt="Yash's Contribution Graph" />
 </p>
 
 ---
