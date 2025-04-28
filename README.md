@@ -109,24 +109,26 @@ Dr. A.P.J. Abdul Kalam Technical University, Lucknow, India
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashSrivastava123&show_icons=true&theme=radical" alt="Yash's GitHub stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YashSrivastava123&theme=radical&hide_border=true" alt="Yash's GitHub streak" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YashSrivastava123&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Yash's GitHub Stats"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YashSrivastava123&theme=rogue" alt="Yash's Contribution Graph" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YashSrivastava123&theme=tokyonight&hide_border=true" width="48%" alt="Yash's GitHub Streak"/>
+  
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashSrivastava123&theme=tokyo-night&hide_border=true" width="90%" alt="Yash's Activity Graph"/>
+</div>
 
 ---
 
 <div align="center">
   
-  *Let's build something amazing together! 🚀*
-  
+  🚀 *Consistently building solutions, learning new tech, and pushing to production!*
+
 </div>
